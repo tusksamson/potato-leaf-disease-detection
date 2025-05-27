@@ -1,6 +1,6 @@
 # 🥔 Potato Plant Disease Detection System
 
-![Potato Plant Logo](./static/images/logo.png)
+![Potato Plant Logo](./static/images/logo.jpg)
 
 ## 🌐 Hosted Live URL
 **Frontend:** [https://potato-disease-v1-0-frontend.vercel.app/](https://potato-disease-v1-0-frontend.vercel.app/)  
